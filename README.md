@@ -1,7 +1,5 @@
-# tara-hoang
-# Test check code tara-hoang
 # This is a README file
-# Note answer check
-Newcontent Lorem ipsum dolor sit amet
-Newline newconent newday
+Newcontent Lorem ipsum dolor sit amet <br />
+If anyone's reading this, take note that this is a README file. Only alter and make changes if necessary <br />
 tara-hoang check
+
